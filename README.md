@@ -1,4 +1,4 @@
-# sslscanator
+# SSLscanator
 
 ## Automate and organize the sslscan output
 

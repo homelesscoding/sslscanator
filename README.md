@@ -1,5 +1,24 @@
 # SSLscanator
 
+```shell
+                       ______
+                     <((((((\\\
+                     /      . }\
+                     ;--..--._|}
+  (\                 '--/\--'  )
+   \\                | '-'  :'|    "Hasta la vista, SSL"
+    \\               . -==- .-|
+     \\               \.__.'   \--._
+     [\\          __.--|       //  _/'--.
+     \ \\       .'-._ ('-----'/ __/      \
+      \ \\     /   __>|      | '--.       |
+       \ \\   |   \   |     /    /       /
+        \ '\ /     \  |     |  _/       /
+         \  \       \ |     | /        /
+          \  \      \        /
+```
+
+
 ## Automate and organize the sslscan output
 
 Example of use: `./sslscanator.sh target-list`

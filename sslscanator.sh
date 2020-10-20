@@ -1,4 +1,5 @@
 #!/bin/bash
+
 for i in `cat $1`;do
         sslscan --no-color --no-failed --no-heartbleed --no-compression --no-renegotiation --no-fallback $i > ${i/:/_}
 done

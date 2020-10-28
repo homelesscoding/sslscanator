@@ -23,7 +23,7 @@
 
 Example of use: `./sslscanator.sh target-list`
 
-The script will create a file call "'target-list'-report" with the targets organized by vulnerabilities
+The tool will create a file call "'target-list'-report" with the targets organized by vulnerabilities
 
 
 ## Licensing:

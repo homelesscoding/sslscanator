@@ -28,4 +28,4 @@ The script will create a file call "'target-list'-report" with the targets organ
 
 ## Licensing:
 
-Domainlistdata is licensed under the GNU General Public License version 3 (GNU GPL v3).
+SSLscanator is licensed under the GNU General Public License version 3 (GNU GPL v3).

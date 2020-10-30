@@ -1,8 +1,7 @@
 # SSLscanator
 [![GitHub release](https://img.shields.io/github/v/release/matthernet/sslscanator)](https://github.com/matthernet/sslscanator/releases/)
 
-```shell
-                       ______
+```shell              ______
                      <((((((\\\
                      /      . }\
                      ;--..--._|}

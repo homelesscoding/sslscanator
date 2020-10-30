@@ -32,7 +32,7 @@ The tool needs ```sslscan``` to work
 
 ### Notice:
 
-The tool will create a temporary file for each target that will be removed after scanning ends
+The tool will create a temporary files for each target that will be removed after scanning ends in the execution directory
 
 ### Licensing:
 

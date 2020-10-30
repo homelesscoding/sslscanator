@@ -30,6 +30,10 @@ The tool will create a file call "'target-list'-report" with the targets organiz
 
 The tool needs ```sslscan``` to work
 
+### Notice:
+
+The tool will create a temporary file for each target that will be removed after scanning ends
+
 ### Licensing:
 
 SSLscanator is licensed under the GNU General Public License version 3 (GNU GPL v3).

@@ -25,7 +25,10 @@ Example of use: `./sslscanator.sh target-list`
 
 The tool will create a file call "'target-list'-report" with the targets organized by vulnerabilities
 
+## Dependencies
 
-## Licensing:
+The tool needs ```sslscan``` to work
+
+### Licensing:
 
 SSLscanator is licensed under the GNU General Public License version 3 (GNU GPL v3).

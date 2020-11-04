@@ -27,7 +27,7 @@ The tool will create a file call "'target-list'-report" with the targets organiz
 
 ## Dependencies
 
-The tool needs ```sslscan``` to work
+The tool needs [sslscan](https://github.com/rbsec/sslscan) to work
 
 ### Notice:
 

@@ -16,7 +16,7 @@
 ```
 # SSLscanator
 [![GitHub release](https://img.shields.io/github/v/release/matthernet/sslscanator)](https://github.com/matthernet/sslscanator/releases/)
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![License: GPL v3](https://img.shields.io/github/license/matthernet/SSLscanator)](https://img.shields.io/github/license/matthernet/SSLscanator)
 
 ## Automate and organize the sslscan output
 

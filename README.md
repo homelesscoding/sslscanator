@@ -20,17 +20,43 @@
 
 ## Automate and organize the sslscan output
 
-Example of use: `./sslscanator.sh target-list`
-
 The tool will create a file call "'target-list'-report" with the targets organized by vulnerabilities
 
+### Installation:
+    git clone https://github.com/matthernet/SSLscanator.git
+    cd SSLscanator
+    mv sslscanator.sh sslscanator
+    chmod +x ./sslscanator
+    mv ./sslscanator /usr/bin
+
+### Example of use:
+    $ sslscanator -t target.tld
+    $ sslscanator -l target-list
+
+### Output example:
+    
+    ------SSLv3------
+    junkemailfilter.com_443
+
+    ------TLSv1.0------
+    target.tld
+
+    ------SWEET32------
+    target.tld
+
+    ------RC4------
+    target.tld
+ 
+    ------POODLE------
+    target.tld
+ 
 ## Dependencies
 
 The tool needs [sslscan](https://github.com/rbsec/sslscan) to work
 
 ### Notice:
 
-The tool will create temporary files for each target in the execution directory that will be removed after scanning ends
+The tool will create a temporary folder in the execution directory that will be removed after scanning ends
 
 ### Licensing:
 

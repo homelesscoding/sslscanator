@@ -36,7 +36,7 @@ The tool will create a file call "'target-list'-report" with the targets organiz
 ### Output example:
     
     ------SSLv3------
-    junkemailfilter.com_443
+    target.tld
 
     ------TLSv1.0------
     target.tld

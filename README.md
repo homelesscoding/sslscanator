@@ -30,8 +30,8 @@ The tool will create a file call "'target-list'-report" with the targets organiz
     mv ./sslscanator /usr/bin
 
 ### Example of use:
-    $ sslscanator -t target.tld
-    $ sslscanator -l target-list
+    For a simple domain: $ sslscanator -t target.tld
+    For a target list: $ sslscanator -l target-list
 
 ### Output example:
     
